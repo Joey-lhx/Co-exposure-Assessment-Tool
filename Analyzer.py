@@ -88,7 +88,7 @@ def risks_analyzer(student_profiles,
 
     #Do statistics to these data
     #1. Concentrations sequences and risks overview
-    df_conc = pd.DataFrame(np.mean(np.array(list_conc), axis = 0), columns = stressors) #The sequences of average concentrations at each timestep (shape: (2400 <timesteps>, 6 <stressors>)) 存疑
+    df_conc = pd.DataFrame(np.mean(np.array(list_conc), axis = 0), columns = stressors) #The sequences of average concentrations at each timestep (shape: (2400 <timesteps>, 6 <stressors>))
     df_HI_CR = pd.DataFrame(np.array(list_HI_CR), columns = ['HI', 'CR']) #The sequences of risks (shape:(10000 <students>, 2 <risks types>)).
     
     #2.1 Concentration sequences and HI
