@@ -45,7 +45,6 @@ There are two options for obtaining the simulation data of stationery usage beha
 ## 🏃🏻‍♂️Explanation for critical scripts
 
 ---
-
 ![The logic and usage of running criticals scripts.](Critical_Scripts.png)
 
 The logic and usage of running criticals scripts.
