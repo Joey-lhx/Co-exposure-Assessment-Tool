@@ -46,9 +46,9 @@ There are two options for obtaining the simulation data of stationery usage beha
 
 ---
 
-![The function of several critical scripts](Critical_Scripts.png)
+![The logic and usage of running criticals scripts.](Critical_Scripts.png)
 
-The function of several critical scripts
+The logic and usage of running criticals scripts.
 
 - \Modules
     - **conc_calculator.py:** Estimates BTEX exposure concentrations in the breathing zone based on SERs data.
@@ -57,3 +57,13 @@ The function of several critical scripts
 - \src: Contains files with constants including physiological parameters, SERs, stationery-related spreading speeds, and toxicological data.
 - \Results: Stores risk assessment and analysis results, primarily used for creating data charts presented in the paper.
 - \main.py: Combines InferExpo.py and Analyzer.py to assess and analyze exposure risks for each simulated student sample iteratively.
+
+## **Acknowlegement**
+
+---
+
+We sincerely thank the open-sourcing of [**SCB-dataset**](https://github.com/Whiffe/SCB-dataset), which provides an opportunity for us to characterize students' stationery-using behavior.
+
+## Misc
+
+For further questions, please contact [Joey_li@xs.ustb.edu.cn](mailto:Joey_li@xs.ustb.edu.cn).
