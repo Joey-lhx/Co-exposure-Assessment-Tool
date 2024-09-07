@@ -1,0 +1,8 @@
+name: Expo
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - tqdm
+  - pandas
+prefix: /root/anaconda3/envs/Expo
