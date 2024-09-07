@@ -1,6 +1,5 @@
 # Elementary School Students Exposure to Emission of BTEX from Scented Stationery
 
----
 
 ![Graphical abstract of the paper.](Graphical_Abstract.png)
 
@@ -8,15 +7,12 @@ Graphical abstract of the paper.
 
 ## **📮**News
 
----
 
 💡 **Next Step:**  Organize and upload the stationery using behavior simulation script.
 
 💡 **2024-08-24:** Release the codes for risks assessment framework, including risks estimation and analysis.
 
 ## ✒️ Configurations for running the codes
-
----
 
 ### 1. Conda Environment
 
@@ -43,8 +39,6 @@ There are two options for obtaining the simulation data of stationery usage beha
     
 
 ## 🏃🏻‍♂️Explanation for critical scripts
-
----
 ![The logic and usage of running criticals scripts.](Critical_Scripts.png)
 
 The logic and usage of running criticals scripts.
@@ -59,7 +53,6 @@ The logic and usage of running criticals scripts.
 
 ## **Acknowlegement**
 
----
 
 We sincerely thank the open-sourcing of [**SCB-dataset**](https://github.com/Whiffe/SCB-dataset), which provides an opportunity for us to characterize students' stationery-using behavior.
 
