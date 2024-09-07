@@ -46,7 +46,7 @@ There are two options for obtaining the simulation data of stationery usage beha
 
 ---
 
-![The function of several critical scripts](Scented Stationery BTEX Assessment.png)
+![The function of several critical scripts](Critical_Scripts.png)
 
 The function of several critical scripts
 
