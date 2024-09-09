@@ -49,7 +49,7 @@ The logic and usage of running criticals scripts.
     - **student.py:** Packages information such as effective emission area, ADDs, and Risks for each simulated student sample for risk statistics and analysis.
 - **\src**: Contains files with constants including physiological parameters, SERs, stationery-related spreading speeds, and toxicological data.
 - **\Results**: Stores risk assessment and analysis results, primarily used for creating data charts presented in the paper.
-- **\main.py**: Combines InferExpo.py and Analyzer.py to assess and analyze exposure risks for each simulated student sample iteratively.
+- **main.py**: Combines InferExpo.py and Analyzer.py to assess and analyze exposure risks for each simulated student sample iteratively.
 
 ## **Acknowlegement**
 
