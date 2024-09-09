@@ -43,13 +43,13 @@ There are two options for obtaining the simulation data of stationery usage beha
 
 The logic and usage of running criticals scripts.
 
-- \Modules
+- **\Modules**
     - **conc_calculator.py:** Estimates BTEX exposure concentrations in the breathing zone based on SERs data.
     - **SER_generator.py:** Generates random SERs according to measured data fluctuation trends to incorporate uncertainty.
     - **student.py:** Packages information such as effective emission area, ADDs, and Risks for each simulated student sample for risk statistics and analysis.
-- \src: Contains files with constants including physiological parameters, SERs, stationery-related spreading speeds, and toxicological data.
-- \Results: Stores risk assessment and analysis results, primarily used for creating data charts presented in the paper.
-- \main.py: Combines InferExpo.py and Analyzer.py to assess and analyze exposure risks for each simulated student sample iteratively.
+- **\src**: Contains files with constants including physiological parameters, SERs, stationery-related spreading speeds, and toxicological data.
+- **\Results**: Stores risk assessment and analysis results, primarily used for creating data charts presented in the paper.
+- **\main.py**: Combines InferExpo.py and Analyzer.py to assess and analyze exposure risks for each simulated student sample iteratively.
 
 ## **Acknowlegement**
 
